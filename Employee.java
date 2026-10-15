@@ -1,6 +1,6 @@
 
 // This class models an Employee.
-// There are problems in this code! 
+// There are problems in this code!
 
 
 public class Employee {
